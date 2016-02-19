@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We got a website.
-date: 2016-02-19 00:47:00 - 0800
+date: 2016-02-19 00:47:00 -0800
 categories: test update
 ---
 
