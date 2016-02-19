@@ -25,8 +25,6 @@ body {
     font-kerning: normal;
 }
 
-
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -99,12 +97,19 @@ a {
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: red;
+        text-decoration: none;
     }
 }
 
-
+.site-title {
+  a {
+    &:hover {
+    color: red;
+    text-decoration: none;
+    }
+  }
+}
 
 /**
  * Blockquotes
@@ -171,6 +176,8 @@ pre {
         padding-left: $spacing-unit / 2;
     }
 }
+
+
 
 
 

@@ -71,8 +71,12 @@ a {
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: white;
-    text-decoration: underline; }
+    color: red;
+    text-decoration: none; }
+
+.site-title a:hover {
+  color: red;
+  text-decoration: none; }
 
 /**
  * Blockquotes
