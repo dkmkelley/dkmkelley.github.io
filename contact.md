@@ -5,7 +5,11 @@ permalink: /contact/
 ---
 
 This will be the contact page.
-
-If you're a dork and you want to look at the source code for this site it's here:
-{% include icon-github.html username="dkmkelley" %} /
-[dkmkelley](https://github.com/dkmkelley)
+<br>
+<br>
+<p>Donovan:</p>
+<p>Rob:</p>
+<p>Jay:</p>
+<br>
+<br>
+Or Catch us on Facebook.
